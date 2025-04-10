@@ -30,7 +30,7 @@ quickly learn new tools and technologies and my mind is always open.
 I have experience overseeing the entire software development lifecycle, from designing robust architectures to deploying scalable applications. My approach emphasizes writing clean, object-oriented, and well-documented code. Alongside technical expertise, I bring strong communication skills, a sense of responsibility, perseverance, honesty, and a commitment to continuous learning.
 
 ### 🏅 Key Achievements
-Developed and deployed full-stack web applications using Python, Django.
+Developed and deployed web applications using Python, Django, AWS.
 Worked with both SQL and NoSQL databases, focusing on performance optimization and efficient data management.
 Followed best practices in software development, including Agile methodologies and Test-Driven Development.
 Improved code quality through refactoring and maintaining comprehensive unit test coverage.
