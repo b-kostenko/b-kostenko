@@ -1,5 +1,7 @@
-**Hi 👋, I'm Bogdan Kostenko
-Back-End Developer from Ukraine**
+Hi 👋, I'm Bogdan Kostenko
+================================
+Back-End Developer from Ukraine
+-------------
 
 ### 💫 About Me
 I am a back-end developer with 4 years of experience, and I know well all SDLC steps
@@ -34,6 +36,7 @@ Followed best practices in software development, including Agile methodologies a
 Improved code quality through refactoring and maintaining comprehensive unit test coverage.
 
 ### 🌐 Socials
-Telegram: https://t.me/Kostenko_Bohdan
-LinkedIn: https://www.linkedin.com/in/bohdan-kostenko-1a639723a/
-Instagram: https://www.instagram.com/kostenko_bogdan_/#
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kostenko_Bohdan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bohdan-kostenko-1a639723a/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kostenko_bogdan_/#)
+
