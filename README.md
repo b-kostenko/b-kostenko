@@ -1,31 +1,39 @@
-Hi 👋 My name is Bogdan Kostenko
-================================
+**Hi 👋, I'm Bogdan Kostenko
+Back-End Developer from Ukraine**
 
-Web Developer
--------------
+### 💫 About Me
+I am a back-end developer with 4 years of experience, and I know well all SDLC steps
+processing – I can develop a back-end part and deploy the project. I can write clean and
+readable code with OOP principles, make documentation, perform refactoring, cover code
+with unit tests, and conduct code reviews. I like to work both in a team and individually.
+The main technologies which I used in my previous projects were Python - FastAPI, Django,
+DRF frameworks, Docker and AWS.
+My most outstanding qualities are good communication skills, hard-worker, clarity and
+accuracy in work, and willingness to always achieve the desired result for the customer. I
+quickly learn new tools and technologies and my mind is always open.
 
-* 🌍  I'm based in Ukraine, Kiev
-* ✉️  You can contact me at [bogdankostenko83@gmail.com](mailto:bogdankostenko83@gmail.com)
+### 💻 Tech Stack
+Programming Languages/Technologies: Python
+Back-End Development: FastAPI, Django/DRF, Flask, WebSockets
+Database Management: SQL, MySQL, PostgreSQL, SQLite, Firebase, MongoDB
+Virtualization Tools: Docker
+Methodologies: Agile, Scrum, Kanban, Pair Programming, Test-Driven Development, Feature-Driven Development
+Operating Systems: Windows, Debian/Ubuntu/LinuxMint
+CI/CD: GitHub CI/CD, GitHub Actions
+Cloud Providers: AWS, Heroku
+Development Tools: PyCharm, WebStorm, JETBrains Products, Visual Studio, VS Code, Git
+Testing Tools: Postman, Unittest, Mock, Pytest
 
-<a href="https://www.github.com/b-kostenko" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/b-kostenko?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### 💼 Professional Summary
+I have experience overseeing the entire software development lifecycle, from designing robust architectures to deploying scalable applications. My approach emphasizes writing clean, object-oriented, and well-documented code. Alongside technical expertise, I bring strong communication skills, a sense of responsibility, perseverance, honesty, and a commitment to continuous learning.
 
-### Skills
+### 🏅 Key Achievements
+Developed and deployed full-stack web applications using Python, Django.
+Worked with both SQL and NoSQL databases, focusing on performance optimization and efficient data management.
+Followed best practices in software development, including Agile methodologies and Test-Driven Development.
+Improved code quality through refactoring and maintaining comprehensive unit test coverage.
 
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/b-kostenko" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/kostenko_bogdan_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/bohdan-kostenko-1a639723a" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/b-kostenko"><img src="https://github-readme-streak-stats.herokuapp.com/?user=b-kostenko&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/b-kostenko" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-kostenko&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 🌐 Socials
+Telegram: https://t.me/Kostenko_Bohdan
+LinkedIn: https://www.linkedin.com/in/bohdan-kostenko-1a639723a/
+Instagram: https://www.instagram.com/kostenko_bogdan_/#
