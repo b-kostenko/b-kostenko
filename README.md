@@ -34,9 +34,3 @@ Developed and deployed web applications using Python, Django, AWS.
 Worked with both SQL and NoSQL databases, focusing on performance optimization and efficient data management.
 Followed best practices in software development, including Agile methodologies and Test-Driven Development.
 Improved code quality through refactoring and maintaining comprehensive unit test coverage.
-
-### 🌐 Socials
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Kostenko_Bohdan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bohdan-kostenko-1a639723a/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kostenko_bogdan_/#)
-
