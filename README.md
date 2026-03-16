@@ -4,7 +4,7 @@ Back-End Developer from Ukraine
 -------------
 
 ### 💫 About Me
-I am a back-end developer with 4 years of experience, and I know well all SDLC steps
+I am a back-end developer with 4.5 years of experience, and I know well all SDLC steps
 processing – I can develop a back-end part and deploy the project. I can write clean and
 readable code with OOP principles, make documentation, perform refactoring, cover code
 with unit tests, and conduct code reviews. I like to work both in a team and individually.
